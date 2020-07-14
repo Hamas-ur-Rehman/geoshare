@@ -1,5 +1,8 @@
 # geoshare
 
+This app is still in progress it helps you to share location in seconds
+
+
 A new Flutter project.
 
 ## Getting Started
