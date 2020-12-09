@@ -1,5 +1,7 @@
 # geoshare
-
+![4pn5jt](https://user-images.githubusercontent.com/47780362/101601394-74ec3880-3a1e-11eb-85b5-ea2dad6e5037.gif)
+<br>
+---
 This app is still in progress it helps you to share location in seconds
 
 
